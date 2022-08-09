@@ -58,7 +58,7 @@ Users should be able to:
 
 ### Challenges
 
-- I had problems with the image and still couldn't make it take the whole height without beeing stretched.
+- I had problems with the image and still couldn't make it take the whole height without beeing stretched. `Update:` i fixed it by using: `object-fit: cover`
 - I tried to make the share button changes it's color on focus but that didnt work well, so i decided to use "setAttribute" in JS and make the src change when ever you click on the button. So i made two share-icons and each one has a color.
 
 ## Author
